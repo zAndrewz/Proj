@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 abstract class BasePage {
+    
     WebDriver driver;
     Logger fileLogger = LogManager.getLogger("File");
 

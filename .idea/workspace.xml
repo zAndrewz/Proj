@@ -7,10 +7,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestMail.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestMail.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/project/TestCore.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,8 +64,34 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="352" column="22" selection-start-line="352" selection-start-column="22" selection-end-line="352" selection-end-column="22" />
+            <state relative-caret-position="115">
+              <caret line="349" column="21" selection-start-line="349" selection-start-column="21" selection-end-line="349" selection-end-column="21" />
+              <folding>
+                <element signature="e#29310#29316#0" expanded="true" />
+                <element signature="e#29353#29359#0" expanded="true" />
+                <element signature="e#29365#29371#0" expanded="true" />
+                <element signature="e#29373#29379#0" expanded="true" />
+                <element signature="e#29656#29662#0" expanded="true" />
+                <element signature="e#29699#29705#0" expanded="true" />
+                <element signature="e#29711#29717#0" expanded="true" />
+                <element signature="e#29719#29725#0" expanded="true" />
+                <element signature="e#29994#30000#0" expanded="true" />
+                <element signature="e#30013#30019#0" expanded="true" />
+                <element signature="e#30024#30030#0" expanded="true" />
+                <element signature="e#30045#30051#0" expanded="true" />
+                <element signature="e#30328#30334#0" expanded="true" />
+                <element signature="e#30347#30353#0" expanded="true" />
+                <element signature="e#30358#30364#0" expanded="true" />
+                <element signature="e#30379#30385#0" expanded="true" />
+                <element signature="e#30604#30610#0" expanded="true" />
+                <element signature="e#30635#30641#0" expanded="true" />
+                <element signature="e#30647#30653#0" expanded="true" />
+                <element signature="e#30660#30666#0" expanded="true" />
+                <element signature="e#31361#31367#0" expanded="true" />
+                <element signature="e#31380#31386#0" expanded="true" />
+                <element signature="e#31391#31397#0" expanded="true" />
+                <element signature="e#31412#31418#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -234,14 +256,6 @@
               <item name="Proj2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Proj2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proj2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proj2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -250,30 +264,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proj2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proj2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proj2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proj2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="bdd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proj2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proj2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="bdd" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -444,7 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536825019481</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixing troubles">
+      <created>1536834274752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536834274752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixing troubles">
+      <created>1536834467272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536834467272</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -480,7 +484,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97654000" />
+    <option name="totallyTimeSpent" value="97980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,6 +497,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="64" width="1294" height="646" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -504,8 +509,8 @@
       <window_info anchor="right" id="Maven Projects" weight="0.3298217" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280943" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3280943" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280943" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3280943" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25364667" />
@@ -556,7 +561,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project done" />
     <MESSAGE value="Added workspace with settings of launch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added workspace with settings of launch" />
+    <MESSAGE value="Fixing troubles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing troubles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -779,13 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/project/loggers/loggers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.4.1/log4j-api-2.4.1.jar!/org/apache/logging/log4j/Level.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -953,10 +952,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/project/loggers/loggers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="352" column="22" selection-start-line="352" selection-start-column="22" selection-end-line="352" selection-end-column="22" />
+        <state relative-caret-position="115">
+          <caret line="349" column="21" selection-start-line="349" selection-start-column="21" selection-end-line="349" selection-end-column="21" />
+          <folding>
+            <element signature="e#29310#29316#0" expanded="true" />
+            <element signature="e#29353#29359#0" expanded="true" />
+            <element signature="e#29365#29371#0" expanded="true" />
+            <element signature="e#29373#29379#0" expanded="true" />
+            <element signature="e#29656#29662#0" expanded="true" />
+            <element signature="e#29699#29705#0" expanded="true" />
+            <element signature="e#29711#29717#0" expanded="true" />
+            <element signature="e#29719#29725#0" expanded="true" />
+            <element signature="e#29994#30000#0" expanded="true" />
+            <element signature="e#30013#30019#0" expanded="true" />
+            <element signature="e#30024#30030#0" expanded="true" />
+            <element signature="e#30045#30051#0" expanded="true" />
+            <element signature="e#30328#30334#0" expanded="true" />
+            <element signature="e#30347#30353#0" expanded="true" />
+            <element signature="e#30358#30364#0" expanded="true" />
+            <element signature="e#30379#30385#0" expanded="true" />
+            <element signature="e#30604#30610#0" expanded="true" />
+            <element signature="e#30635#30641#0" expanded="true" />
+            <element signature="e#30647#30653#0" expanded="true" />
+            <element signature="e#30660#30666#0" expanded="true" />
+            <element signature="e#31361#31367#0" expanded="true" />
+            <element signature="e#31380#31386#0" expanded="true" />
+            <element signature="e#31391#31397#0" expanded="true" />
+            <element signature="e#31412#31418#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
