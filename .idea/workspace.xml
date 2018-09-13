@@ -448,9 +448,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CucumberConf - 2018.09.12 at 01h 53m 22s.xml">
-      <configuration name="CucumberConf" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="CucumberConf - 2018.09.12 at 01h 56m 18s.xml">
       <configuration name="CucumberConf" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -476,6 +473,9 @@
       <configuration name="CucumberConf" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="CucumberConf - 2018.09.12 at 02h 28m 54s.xml">
+      <configuration name="CucumberConf" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="CucumberConf - 2018.09.13 at 13h 23m 49s.xml">
       <configuration name="CucumberConf" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
